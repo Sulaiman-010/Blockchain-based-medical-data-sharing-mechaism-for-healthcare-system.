@@ -1,0 +1,19 @@
+.container-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  opacity: 0.8;
+  form {
+    background: white;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    div {
+      margin-bottom: 10px;
+      span {
+        margin-left: 8px;
+      }
+    }
+  }
+}
